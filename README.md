@@ -6,3 +6,5 @@ We are three students of the the Ms of CS in AI at University of Genoa. This uni
 We built a serious game to undestand the '5 levels of accepting change'.
 
 We thuoght this game mainly to the children that should accept a traumatic event during a 2d platform game in which the player should collect items during their journey in which will took choices to help doctors to understand the mental state of the patience.
+
+The game is developed in 4 levels, one for each phase, excluding the acceptance phase, in which we will build 2 choices each level.
