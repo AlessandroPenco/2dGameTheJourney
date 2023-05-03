@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 5382180655608008528}
   - component: {fileID: 5382180655608008535}
   - component: {fileID: 5382180655608008534}
-  - component: {fileID: 5382180655608008533}
+  - component: {fileID: 7235947322483864773}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -150,9 +150,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   jumpableGround:
     serializedVersion: 2
-    m_Bits: 64
+    m_Bits: 0
   moveSpeed: 7
-  jumpSpeed: 10
+  jumpSpeed: 18
 --- !u!95 &5382180655608008534
 Animator:
   serializedVersion: 4
@@ -173,7 +173,7 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &5382180655608008533
+--- !u!114 &7235947322483864773
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
