@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 /Users/gabrielecaletti/Documents/GitHub/2dGameTheJourney
+=======
+/Users/gagy/Desktop/UNI/2dGameTheJourney
+>>>>>>> Stashed changes
